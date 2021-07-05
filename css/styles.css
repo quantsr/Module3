@@ -1,0 +1,13 @@
+#dropdown-menu {
+	background-color: #eeeeee;
+}
+ul {
+	list-style: none;
+}
+#row {
+	background-color: #bbbbbb;
+	margin: 10;
+}
+
+
+/*media query for md size background color of dropdown menu */
